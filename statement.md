@@ -1,6 +1,6 @@
 # Welcome!
 
-This Java template lets you get st
+This Java template lets you ge
 
 ```java runnable
 // { autofold
