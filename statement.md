@@ -1,6 +1,6 @@
 # Welcome!
 
-This Java templa
+This Java temp
 
 ```java runnable
 // { autofold
